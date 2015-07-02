@@ -1,0 +1,15 @@
+{
+  "name": "data-ajax-content",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rdehnhardt/data-ajax-content",
+  "description": "Loads the contents of a ajax inside a div!",
+  "main": "jquery.ajax-content.js",
+  "keywords": [
+    "ajax",
+    "content"
+  ],
+  "authors": [
+    "Renato Dehnhardt <renatorkd@gmail.com>"
+  ],
+  "license": "MIT"
+}
