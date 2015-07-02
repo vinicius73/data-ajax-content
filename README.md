@@ -3,7 +3,7 @@
 Loads the contents of a ajax inside a div!
 
 #How to use
-```
+```html
 <div
     data-ajax-content="true"
     data-href="/path/your/ajax"
